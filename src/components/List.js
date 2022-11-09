@@ -31,7 +31,7 @@ function List() {
                     key={character.id}
                     name={character.name}
                     origin={character.origin}
-                    image={character.imsge}
+                    image={character.image}
                     />
                 ))
             )
